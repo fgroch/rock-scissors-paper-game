@@ -1,3 +1,15 @@
 = rock-scissors-paper-game
 
-Simulation of Rock-Scissors-Paper game
+Simulation of Rock-Scissors-Paper game. One player shows ROCK only, other plays randomly.
+
+== How to build and run
+
+=== Technical requirements:
+* Java installed (1.8)
+
+=== Build (from root of the project):
+`> cd src/tools/blocks` +
+`> javac RockScissorsPaper.java`
+
+=== Run:
+`> java -cp ../../ tools.blocks.RockScissorsPaper`
